@@ -1,0 +1,1 @@
+# textlint-rule-table-align
