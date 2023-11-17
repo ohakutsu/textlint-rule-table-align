@@ -36,7 +36,7 @@ npm install textlint-rule-table-align
 
 ## Options
 
-```json
+```jsonc
 {
   // Prefer alignment. (default is no alignment)
   // You can configure `'left'`, `'right'`, `'center'` or `null`.
