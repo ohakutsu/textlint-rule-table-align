@@ -9,5 +9,11 @@
     ":label(dependencies)",
     "npm:unpublishSafe"
   ],
-  "rangeStrategy": "bump"
+  "rangeStrategy": "bump",
+  "packageRules": [
+    {
+      "packageNames": ["node"],
+      "enabled": false
+    }
+  ]
 }
