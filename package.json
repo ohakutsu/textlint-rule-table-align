@@ -30,14 +30,14 @@
     "test": "textlint-scripts test"
   },
   "devDependencies": {
-    "@textlint/types": "^13.4.1",
+    "@textlint/types": "^14.0.4",
     "prettier": "^3.3.2",
-    "textlint-scripts": "^13.4.1",
-    "textlint-tester": "^13.4.1",
+    "textlint-scripts": "^14.0.4",
+    "textlint-tester": "^14.0.4",
     "typescript": "^5.5.3"
   },
   "peerDependencies": {
-    "textlint": ">=13.4.1"
+    "textlint": ">=14.0.4"
   },
   "engines": {
     "node": ">=18.14.0"
