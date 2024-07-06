@@ -40,7 +40,7 @@ npm install textlint-rule-table-align
 {
   // Prefer alignment. (default is no alignment)
   // You can configure `'left'`, `'right'`, `'center'` or `null`.
-  "align": null
+  "align": null,
 }
 ```
 
