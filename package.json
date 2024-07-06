@@ -1,6 +1,6 @@
 {
   "name": "textlint-rule-table-align",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "textlint rule that check table align.",
   "keywords": [
     "textlintrule"
