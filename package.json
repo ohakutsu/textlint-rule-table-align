@@ -32,7 +32,7 @@
   "devDependencies": {
     "@textlint/types": "^14.0.5",
     "prettier": "^3.3.3",
-    "textlint-scripts": "^14.0.4",
+    "textlint-scripts": "^14.0.5",
     "textlint-tester": "^14.0.4",
     "typescript": "^5.5.4"
   },
