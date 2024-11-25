@@ -20,13 +20,13 @@ importers:
         version: 3.3.3
       textlint-scripts:
         specifier: ^14.3.0
-        version: 14.3.0(typescript@5.6.3)
+        version: 14.3.0(typescript@5.7.2)
       textlint-tester:
         specifier: ^14.3.0
         version: 14.3.0
       typescript:
-        specifier: ^5.6.3
-        version: 5.6.3
+        specifier: ^5.7.2
+        version: 5.7.2
 
 packages:
 
@@ -1768,8 +1768,8 @@ packages:
     resolution: {integrity: sha512-bRkIGlXsnGBRBQRAY56UXBm//9qH4bmJfFvq83gSz41N282df+fjy8ofcEgc1sM8geNt5cl6mC2g9Fht1cs8Aw==}
     engines: {node: '>=16'}
 
-  typescript@5.6.3:
-    resolution: {integrity: sha512-hjcS1mhfuyi4WW8IWtjP7brDrG2cuDZukyrYrSauoXGNgx0S7zceP07adYkJycEr56BOUTNPzbInooiN3fn1qw==}
+  typescript@5.7.2:
+    resolution: {integrity: sha512-i5t66RHxDvVN40HfDd1PsEThGNnlMCMT3jMUuoh9/0TaqWevNontacunWyN02LA9/fIbEWlcHZcgTKb9QoaLfg==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -3871,7 +3871,7 @@ snapshots:
 
   text-table@0.2.0: {}
 
-  textlint-scripts@14.3.0(typescript@5.6.3):
+  textlint-scripts@14.3.0(typescript@5.7.2):
     dependencies:
       '@babel/cli': 7.25.7(@babel/core@7.26.0)
       '@babel/core': 7.26.0
@@ -3885,7 +3885,7 @@ snapshots:
       pkg-to-readme: 3.0.1
       textlint-tester: 14.3.0
     optionalDependencies:
-      typescript: 5.6.3
+      typescript: 5.7.2
     transitivePeerDependencies:
       - supports-color
 
@@ -3943,7 +3943,7 @@ snapshots:
 
   type-fest@4.25.0: {}
 
-  typescript@5.6.3: {}
+  typescript@5.7.2: {}
 
   unicode-canonical-property-names-ecmascript@2.0.0: {}
 
