@@ -34,7 +34,7 @@
     "prettier": "^3.4.2",
     "textlint-scripts": "^14.4.2",
     "textlint-tester": "^14.4.2",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.3"
   },
   "peerDependencies": {
     "textlint": ">=14.4.2"
