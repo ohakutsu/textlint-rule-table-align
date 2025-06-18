@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       textlint:
-        specifier: '>=14.8.1'
+        specifier: '>=14.8.4'
         version: 14.8.4
     devDependencies:
       '@textlint/types':
