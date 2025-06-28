@@ -16,7 +16,7 @@ importers:
         specifier: ^14.8.4
         version: 14.8.4
       prettier:
-        specifier: ^3.6.0
+        specifier: ^3.6.1
         version: 3.6.1
       textlint-scripts:
         specifier: ^14.8.4
