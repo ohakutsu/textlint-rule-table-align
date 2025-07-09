@@ -37,7 +37,7 @@
     "typescript": "^5.8.3"
   },
   "peerDependencies": {
-    "textlint": ">=14.8.4"
+    "textlint": ">=15.2.0"
   },
   "engines": {
     "node": ">=18.14.0"
